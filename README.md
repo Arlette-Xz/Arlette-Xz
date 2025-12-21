@@ -9,7 +9,7 @@
 <h2 align="center"> 🌸 CONTACT </h2>
 
 <div align="center">
-<a href="https://instagram.com/speed3xz">
+<a href="https://instagram.com/Melody7.xz">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://discord.com/users/speed3xz">
@@ -27,9 +27,9 @@
 
 <div align="center">
   
-![Arlette's GitHub stats](https://github-readme-stats.vercel.app/api?username=Speed3xz&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=000000)
+![Arlette's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arlette-Xz&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Speed3xz&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlette-Xz&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=000000)
 
 </div>
 
@@ -37,7 +37,9 @@
 
 <div align="center">
 
-[![Arlette-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Speed3xz&repo=Arlette-Bot&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=000000)](https://github.com/Speed3xz/Arlette-Bot)
+[![Arlette-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Arlette-Xz&repo=Arlette-Bot&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=000000)](https://github.com/Arlette-Xz/Arlette-Bot)
+
+[![Arlette-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Arlette-Xz&repo=Shiroko-Bot&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=000000)](https://github.com/Arlette-Xz/Shiroko-Bot)
 
 </div>
 
