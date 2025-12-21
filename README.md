@@ -3,7 +3,7 @@
 ## ¡Hola! Soy Arlette Xz 🎀 Welcome to my profile ✨
 
 <p align="center">
-<img src="https://speed3xz.bot.nu/storage/img/my-melody-hello-kitty-sanrio-clip-art-others-6a64d3cc3b5135d27cf3a7d43a373e14.png" alt="My Melody" width="200" style="border-radius: 50%;"/>
+<img src="https://raw.githubusercontent.com/Arlette-Xz/storage/refs/heads/main/img/my-melody-hello-kitty-sanrio-clip-art-others-6a64d3cc3b5135d27cf3a7d43a373e14.png" alt="My Melody" width="200" style="border-radius: 50%;"/>
 </p>
 
 <h2 align="center"> 🌸 CONTACT </h2>
