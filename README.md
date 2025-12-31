@@ -18,28 +18,7 @@
 <a href="https://wa.me/573114910796">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
-<a href="https://ko-fi.com/speed3xz">
-<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-</a>
 </div>
-
-<h2 align="center"> 📊 STATISTICS </h2>
-
-<div align="center">
-  
-![Arlette's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arlette-Xz&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlette-Xz&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=000000)
-
-</div>
-
-<h2 align="center"> 🎀 FEATURED PROJECT </h2>
-
-<div align="center">
-
-[![Arlette-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Arlette-Xz&repo=Arlette-Bot&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=000000)](https://github.com/Arlette-Xz/Arlette-Bot)
-
-[![Arlette-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Arlette-Xz&repo=Shiroko-Bot&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=000000)](https://github.com/Arlette-Xz/Shiroko-Bot)
 
 </div>
 
